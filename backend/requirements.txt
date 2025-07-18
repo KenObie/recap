@@ -2,4 +2,8 @@ flask
 opencv-python
 numpy
 openai-whisper
-pydub 
+pydub
+torch
+typing-extensions
+audioread
+audioop-lts
